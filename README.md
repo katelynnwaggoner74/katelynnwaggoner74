@@ -18,9 +18,14 @@ Welcome to my GitHub! I'm building my programming skills through hands-on projec
 
 ## 📂 Featured Projects
 
-I'm currently building my portfolio. My projects will be added here as I complete them.
+### 🎸 Band Name Generator
+A beginner Python project that generates a band name based on user input.
 
-### Coming Soon
+**Skills:** Python, variables, user input, strings, and string concatenation.
+
+🔗 [View Project](https://github.com/katelynnwaggoner74/python-band-name-generator)
+
+### 🚧 More Projects Coming Soon
 - 🐍 Python Projects
 - 🌐 Web Development Projects
 - 🎓 FreeCodeCamp Projects
