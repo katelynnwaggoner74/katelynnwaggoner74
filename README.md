@@ -24,7 +24,13 @@ A beginner Python project that generates a band name based on user input.
 **Skills:** Python, variables, user input, strings, and string concatenation.
 
 🔗 [View Project](https://github.com/katelynnwaggoner74/python-band-name-generator)
+### 💰 Tip Calculator
 
+A beginner Python project that calculates a tip and splits the total bill between multiple people.
+
+**Skills:** Python, variables, user input, type conversion, arithmetic operations, rounding, and f-strings.
+
+🔗 [View Project](https://github.com/katelynnwaggoner74/python-tip-calculator)
 ### 🚧 More Projects Coming Soon
 - 🐍 Python Projects
 - 🌐 Web Development Projects
