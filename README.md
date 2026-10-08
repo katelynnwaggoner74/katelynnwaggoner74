@@ -24,6 +24,7 @@ A beginner Python project that generates a band name based on user input.
 **Skills:** Python, variables, user input, strings, and string concatenation.
 
 🔗 [View Project](https://github.com/katelynnwaggoner74/python-band-name-generator)
+
 ### 💰 Tip Calculator
 
 A beginner Python project that calculates a tip and splits the total bill between multiple people.
@@ -31,6 +32,19 @@ A beginner Python project that calculates a tip and splits the total bill betwee
 **Skills:** Python, variables, user input, type conversion, arithmetic operations, rounding, and f-strings.
 
 🔗 [View Project](https://github.com/katelynnwaggoner74/python-tip-calculator)
+
+### 🏝️ Treasure Island Adventure Game
+
+A beginner Python text-based adventure game
+where players make decisions to search for
+hidden treasure.
+
+**Skills:** Python, user input, conditional
+statements, nested conditions, comparison
+operators, and logical thinking.
+
+🔗 [View Project](https://github.com/katelynnwaggoner74/treasure-island-python)
+
 ### 🚧 More Projects Coming Soon
 - 🐍 Python Projects
 - 🌐 Web Development Projects
